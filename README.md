@@ -14,7 +14,7 @@ Each question is categorized under topics such as Access Control, Data Security,
 
 ### Setup
 
-1. Run the notebook compliance_evaluation.ipynb.
+1. Run the notebook [compliance_evaluation.ipynb](https://github.com/isabeljohnson001/Company-Compliance-Evaluator/blob/main/Company_Compliance_Evaluator.ipynb).
 
 2. Follow the instructions in the notebook to input questions and evaluate compliance.
 
